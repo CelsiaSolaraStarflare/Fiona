@@ -1,9 +1,0 @@
-{
-  "epoch": [],
-  "train_loss": [],
-  "train_value_loss": [],
-  "train_weight_loss": [],
-  "val_loss": [],
-  "val_value_loss": [],
-  "val_weight_loss": []
-}
